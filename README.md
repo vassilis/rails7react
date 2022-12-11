@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample application for [Rails 7.0.4][rails-7.0.4] and React with [esbuild][esbuild] and live reload.
 
-Things you may want to cover:
+- Ruby version
+  ruby 3.1.2
 
-* Ruby version
+- Rails version
+  rails 7.0.4
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- JavaScript Bundler
+  esbuild
