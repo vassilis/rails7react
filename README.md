@@ -1,6 +1,6 @@
 # README
 
-This is a sample application for [Rails 7.0.4][rails-7.0.4] and React with [esbuild][esbuild] and live reload.
+This is a sample application for Rails 7.0.4 and React with esbuild and live reload.
 
 - Ruby version
   ruby 3.1.2
